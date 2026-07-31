@@ -1,9 +1,7 @@
 import java.util.ArrayList;
-import java.util.List;
-import java.util.Set;
-import java.util.EmptyStackException;
-import java.util.HashSet;
 import java.util.Collections;
+import java.util.EmptyStackException;
+import java.util.List;
 /*
   Peerapat Chaiwat 6821651574
 Wongwarit Lerdsart 6821651701
