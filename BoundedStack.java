@@ -85,7 +85,7 @@ public class BoundedStack {
     private static boolean isValidItem(int item) {
         return item == BURGER || item == FRIES || item == NUGGETS || item == COMBO_MEAL;
     }
-
+ 
     // === Creator ===
     /**
      * สร้างสแต็กถาดอาหารที่ว่างเปล่าตามขนาดความจุสูงสุดที่กำหนด
